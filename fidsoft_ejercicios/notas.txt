@@ -1,0 +1,3 @@
+1. Crear un array de 5 enteros
+2. Recorrer el array
+3. Guardar en una variable el máximo de dicho array, en otra el mínimo y en otra la suma de todos los valores.

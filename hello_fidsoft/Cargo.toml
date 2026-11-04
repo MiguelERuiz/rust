@@ -1,0 +1,17 @@
+[package]
+name = "hello-fidsoft"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "hello-fidsoft"
+
+[[bin]]
+name = "greet"
+
+[[bin]]
+name = "other"
+path = "src/other/greet.rs"
