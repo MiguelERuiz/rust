@@ -12,7 +12,7 @@ pub fn leer_numero(mensaje: &str) -> i32 {
 }
 
 /// Muestra un mensaje y lee una línea del teclado
-fn leer(mensaje: &str) -> String {
+pub fn leer(mensaje: &str) -> String {
     print!("{}", mensaje);
     io::stdout().flush().unwrap();
     let mut teclado = String::new();
