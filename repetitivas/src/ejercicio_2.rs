@@ -1,4 +1,3 @@
-
 pub fn ejercicio2() {
-  println!("Ejercicio 2");
+    println!("Ejercicio 2");
 }

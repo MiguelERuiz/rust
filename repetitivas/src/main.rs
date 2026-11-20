@@ -4,12 +4,12 @@ mod ejercicio_3;
 mod ejercicio_4;
 mod ejercicio_5;
 
-use repetitivas::utils;
 use ejercicio_1::ejercicio1;
 use ejercicio_2::ejercicio2;
 use ejercicio_3::ejercicio3;
 use ejercicio_4::ejercicio4;
 use ejercicio_5::ejercicio5;
+use repetitivas::utils;
 
 fn main() {
     loop {
